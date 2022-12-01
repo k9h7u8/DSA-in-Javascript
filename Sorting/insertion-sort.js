@@ -1,4 +1,5 @@
 // Big O = O(n^2)
+
 function insertionSort(arr) {
     for (let i = 1; i < arr.length; i++) {
         let numberToInsert = arr[i];

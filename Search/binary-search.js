@@ -1,4 +1,5 @@
 // Big O = O(logn)
+
 function binarySearch(arr, key) {
     let beg = 0;
     let end = arr.length - 1;

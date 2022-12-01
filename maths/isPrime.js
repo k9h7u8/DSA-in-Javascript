@@ -1,4 +1,5 @@
 // Function with time complexity = O(n)
+
 function isPrime(n) {
     if (n < 2) {
         return false;
@@ -15,6 +16,7 @@ console.log(isPrime(1));
 console.log(isPrime(7));
 
 // Function with time complexity = O(sqrt(n))
+
 function isPrimeNo(n) {
     if (n < 2) {
         return false;

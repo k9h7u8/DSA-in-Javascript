@@ -1,4 +1,5 @@
 // Big O = O(log n)
+
 function isPowerOfTwo(n) {
     if (n < 1) {
         return false;
@@ -17,6 +18,7 @@ console.log(isPowerOfTwo(6));
 
 
 // Big O = O(1)
+
 function isPowerOfTwoBitwise(n) {
     if (n < 1) {
         return false;

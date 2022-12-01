@@ -1,4 +1,5 @@
 // Big O = O(n^2)
+
 function bubbleSort(arr) {
     let swapped
     do {
